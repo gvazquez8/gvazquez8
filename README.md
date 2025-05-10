@@ -15,6 +15,8 @@ I hope to contribute to society in ways that can improve people's lives in meani
 
 # How to reach me
 🚧🚧🚧 __UNDER CONSTRUCTIONS__ 🚧🚧🚧
+
+![](https://komarev.com/ghpvc/?username=gvazquez8)
 <!--
 **gvazquez8/gvazquez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
